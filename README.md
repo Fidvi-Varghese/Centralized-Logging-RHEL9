@@ -1,6 +1,6 @@
 # Centralized Logging and Log Management Using rsyslog
 
-Project in 
+Project 
 
 Architecture:
 - ansible-control (Log Server)
